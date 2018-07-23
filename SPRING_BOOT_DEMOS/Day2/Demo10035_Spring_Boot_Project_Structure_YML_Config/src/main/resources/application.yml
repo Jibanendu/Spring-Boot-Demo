@@ -1,0 +1,21 @@
+server:
+ port: 8090
+
+
+data:
+ description: Data from YAML File
+ employeeList:
+  - employeeName: Jack
+    salary: 4500
+    employeeId: 1001
+    departmentCode: 102
+   
+  - employeeName: Justin
+    salary: 3500
+    employeeId: 1002
+    departmentCode: 101
+   
+  - employeeName: Eric
+    salary: 9500
+    employeeId: 1003
+    departmentCode: 102

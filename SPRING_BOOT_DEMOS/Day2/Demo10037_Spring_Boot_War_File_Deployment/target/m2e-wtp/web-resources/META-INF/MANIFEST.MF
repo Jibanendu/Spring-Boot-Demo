@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Demo10037_Spring_Boot_War_File_Deployment
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mohpreet.singh
+Implementation-Vendor-Id: com.lkm.accenture
+Build-Jdk: 1.8.0_71
+Implementation-URL: http://projects.spring.io/spring-boot/Demo10037_Sp
+ ring_Boot_War_File_Deployment/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

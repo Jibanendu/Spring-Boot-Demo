@@ -1,0 +1,3 @@
+Observe how on deploying the application database will be created by making use of the following properties
+spring.datasource.schema=classpath:/Employee-ddl.sql
+spring.datasource.data=classpath:/Employee-dml.sql
